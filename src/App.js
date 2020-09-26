@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import 'antd/dist/antd.css';
 import {message,Button} from 'antd';
 
 export default class App extends Component {
